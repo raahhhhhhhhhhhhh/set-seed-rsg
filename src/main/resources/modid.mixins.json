@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fiftyfivec3.ssg.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "SetSeedMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
