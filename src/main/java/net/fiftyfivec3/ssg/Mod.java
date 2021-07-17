@@ -7,7 +7,7 @@ import org.apache.logging.log4j.Logger;
 public class Mod implements ModInitializer {
 
 	// change the value between the quotes for a custom set seed
-	public final static String seed = "2195521955"; // <- here
+	public final static String seed = "1594843648628849707"; // <- here
 
 	@Override
 	public void onInitialize() {
